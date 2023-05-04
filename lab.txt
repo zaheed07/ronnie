@@ -2,4 +2,6 @@ yeah buddy light weight
 
 end sem lab
 
-today is monday
+ today is monday
+
+tomorrow is tuesday
